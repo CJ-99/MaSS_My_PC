@@ -17,7 +17,6 @@ import numpy as np
 import ssl
 import seaborn as sns
 import time
-import torchbearer
 
 sns.set_theme()
 ssl._create_default_https_context = ssl._create_unverified_context
